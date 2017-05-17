@@ -9,6 +9,3 @@ This plugin requires eUriResolver to work properly.
  * EPG integration
  * Multi server access
  * User/password based authentication
-
-# enigma2-plugin-extensions-stalkerclient
-# enigma2-plugin-extensions-stalkerclient
